@@ -21,11 +21,17 @@ landmark dataset
 
 # The following python modules must be installed:
 cv2
+
 matplotlib
+
 numpy
+
 PIL
+
 torch
+
 torchvision
+
 ## - Step 1: Create a CNN to Classify Landmarks (from Scratch)
 In this step, you will create a CNN that classifies landmarks. You must create your CNN from scratch (so, you can't use transfer learning yet!), and you must attain a test accuracy of at least 20%.
 
